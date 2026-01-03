@@ -1,0 +1,8 @@
+# Ignore datasets
+dataset/
+datasets/
+data/
+
+# Ignore CSV & ZIP files
+*.csv
+*.zip
